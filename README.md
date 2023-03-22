@@ -1,1 +1,1 @@
-# remove-files
+This program is a simple Python script designed to print the names of all files in a specified directory that have a .py extension. The program uses the built-in 'os' module in Python to navigate the file system and check the file extension.
